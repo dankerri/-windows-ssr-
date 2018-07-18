@@ -14,7 +14,8 @@
 ## 0. 步骤梗概
 1. 安装ssr客户端
   - 配置客户端
-2. 安装chrome浏览器
+2. 如果你是用firefox浏览器, 那么只要装了客户端就能用ssr代理了
+3. 安装chrome浏览器
   - 在chrome上安装switchyOmega
   - 配置switchyOmega
 
