@@ -32,21 +32,11 @@
 
 
 ## 2. 启动并配置ssr客户端
-1. 每次启动ssr客户端都要进入ssr文件夹内,请务必记住ssr文件夹的位置,除非你为它添加了桌面快捷方式
-2. 双击ssr4.0，任务栏会出现紫色小飞机图标，双击后出现以下界面，在此处填入配置信息，按确定保存
-3. 注意是4.0, 如果用2.0会出现bug
-3. 需要填写的配置信息只有下面这些,其他的可以不必理会:
-> - 服务器IP
-> - 服务器端口
-> - 密码
-> - 加密
-> - 协议
-> - 混淆
-> - 总之照着图片填就行, 服务器地址和密码则向我询问
+1. 将配置*字符串*复制到剪贴板上
+1. 只要右键任务栏的ssr小飞机, 点击"剪贴板批量导入ssr://链接"
+![差不多是这样的画面](https://upload-images.jianshu.io/upload_images/6813015-7e6918712e607c8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-
-![ssr配置](https://upload-images.jianshu.io/upload_images/6813015-0eda90a6952a0e0e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ssr配置成功后会填上各行](https://upload-images.jianshu.io/upload_images/6813015-0eda90a6952a0e0e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## 4.日常使用需知
