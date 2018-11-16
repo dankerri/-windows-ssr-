@@ -35,7 +35,7 @@
 ## 2. 启动并配置ssr客户端
 1. 将配置*字符串*复制到剪贴板上
 1. 只要右键任务栏的ssr小飞机, 点击"剪贴板批量导入ssr://链接"
-1. 注意不要随意分析自己的配置给别人,不要做这种竭泽而渔的事情!!!!!
+1. 注意不要随意分享自己的配置给别人,不要做这种竭泽而渔的事情!!!!!
 ![差不多是这样的画面](https://upload-images.jianshu.io/upload_images/6813015-7e6918712e607c8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![ssr配置成功后会填上各行](https://upload-images.jianshu.io/upload_images/6813015-0eda90a6952a0e0e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
