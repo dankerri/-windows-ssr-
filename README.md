@@ -23,6 +23,7 @@
 
 ## 1. 安卓
 1. [android客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
+![step1](https://github.com/dankerri/-windows-ssr-/blob/master/1419823127.jpg?raw=true)
 
 
 
