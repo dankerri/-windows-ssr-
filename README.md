@@ -25,11 +25,14 @@
 1. [android客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 2. 复制ssr链接
 3. 开始安装
+
 step1
 ![step1](https://github.com/dankerri/-windows-ssr-/blob/master/1419823127.jpg?raw=true)
+
 step2
 ![step2](https://github.com/dankerri/-windows-ssr-/blob/master/836383168.jpg?raw=true)
-有显示超时就是成功了
+
+没有显示超时就是成功了
 ![没有显示超时就是成功了](https://github.com/dankerri/-windows-ssr-/blob/master/865406701.jpg?raw=true)
 
 
@@ -44,6 +47,9 @@ step2
 ## 3. IOS(推荐shadowrocket)
 0. shadowrocket要到App store的美区去下载, 所以要有美区的 appleID, 你可以和朋友借用一下.
 1. shadowrock是收费软件(开发者并不是我)
+2. 将二维码的图片保留在手机里
+3. 开始安装
+
 
 
 
