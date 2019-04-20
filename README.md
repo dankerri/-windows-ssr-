@@ -18,15 +18,15 @@
 ## 0. 步骤梗概
 1. 安装ssr客户端
 2. 配置客户端(填写账号信息), 可以用ssr链接, 扫二维码, 或手动填写的方式
-3. 使用ssr链接或扫二维码的方式配置
+3. 推荐使用ssr链接或扫二维码的方式配置
 
 
-## 1. 安装安卓客户端
+## 1. 安卓
 1. [android客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 
 
 
-## 2. 安装windows客户端
+## 2. windows
 0. [windows客户端下载地址](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
 1. 将配置*字符串*复制到剪贴板上
 1. 只要右键任务栏的ssr小飞机, 点击"剪贴板批量导入ssr://链接"
@@ -34,10 +34,10 @@
 
 ![ssr配置成功后会填上各行](https://upload-images.jianshu.io/upload_images/6813015-0eda90a6952a0e0e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 3. IOS客户端(推荐shadowrocket)
-0. shadowrocket要到App store美区去下载, 所以要有美区的 appleId, 你可以和朋友借用一下.
+## 3. IOS(推荐shadowrocket)
+0. shadowrocket要到App store的美区去下载, 所以要有美区的 appleID, 你可以和朋友借用一下.
 1. shadowrock是收费软件(开发者并不是我)
-2. 
+
 
 
 ## 4.日常使用需知
