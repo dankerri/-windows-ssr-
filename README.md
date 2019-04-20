@@ -8,8 +8,8 @@
 按照不同平台的使用重写教程
 
 
-## Warning
-## 注意不要随意分享自己的配置给别人,不要做这种竭泽而渔的事情!!!!!
+## WARNING
+### 注意不要随意分享自己的配置给别人,不要做这种竭泽而渔的事情!!!!!
 
 如果你骚一点,完全可以自己搭建ssr服务,[去vultr租vps就行了(vultr计时收费的方式很适合搭建ssr的)](https://www.vultr.com/?ref=7245982)
 
@@ -41,8 +41,11 @@ step2
 
 ## 2. windows
 0. [windows客户端下载地址](https://github.com/shadowsocksrr/shadowsocksr-csharp/releases)
+1. 解压后运行4.0的快捷方式
 1. 将配置*字符串*复制到剪贴板上
-1. 只要右键任务栏的ssr小飞机, 点击"剪贴板批量导入ssr://链接"
+1. 只要右键任务栏(屏幕的右下方)的ssr小飞机, 点击"剪贴板批量导入ssr://链接"
+
+
 ![差不多是这样的画面](https://upload-images.jianshu.io/upload_images/6813015-7e6918712e607c8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![ssr配置成功后会填上各行](https://upload-images.jianshu.io/upload_images/6813015-0eda90a6952a0e0e.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -53,6 +56,7 @@ step2
 2. 将二维码的图片保留在手机里
 3. 开始安装
 
+step1
 
 ![step1](https://github.com/dankerri/-windows-ssr-/blob/master/1521190801.jpg?raw=true)
 
@@ -65,14 +69,12 @@ step2
 
 ## 4.日常使用需知
 1. 右键任务栏小飞机的图标可选则"系统代理模式"
-2. "直接连接"和没有安装ssr是一个效果的,也就是不能翻墙; "pac代理"会根据pac文件自动切换流量的走向的; "全局代理"所有流量都走国外的(看B站这些国内的网站会觉得卡卡的).
-3. 注意只有支持sock5的软件才能使用ssr, 即是说浏览器(chrome, firefox)能用ssr, 但是玩游戏就用不了ssr(但是可以配合别的软件实现翻墙打游戏)
-4. 简单的理解就是在电脑上浏览器可以直接使用ss代理, 其他的软件用ss代理就需要额外的辅助软件(反正大家只是用来上youtube和pornhub嘛)
+2. 直接连接和没有安装ssr是一个效果的,也就是不能翻墙; "pac代理"会根据pac文件自动切换流量的走向的; "全局代理"所有流量都走国外的(看B站这些国内的网站会觉得卡卡的).
+3. 简单的理解就是在电脑上浏览器可以直接使用ss代理, 其他的软件用ss代理就需要额外的辅助软件(反正大家只是用来上youtube和pornhub嘛)
 3. 不同的运行商网络使用代理的体验(网速)不同
 移动 > 联通 > 电信
 因为电信的外网出口严重超售(还记得电信的外网加速服务吗?)
-5. 不同的地区使用体验也不同()
-
+5. 不同的地区使用体验也不同(不同区域的ISP有自己的封禁策略)
 6. 请不要用代理下载种子(bt), 服务器提供商会封掉代理所用的服务器(不会退款)
 
 ## 针对学生用户常见问题排查
