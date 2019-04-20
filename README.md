@@ -27,12 +27,15 @@
 3. 开始安装
 
 step1
+
 ![step1](https://github.com/dankerri/-windows-ssr-/blob/master/1419823127.jpg?raw=true)
 
 step2
+
 ![step2](https://github.com/dankerri/-windows-ssr-/blob/master/836383168.jpg?raw=true)
 
 没有显示超时就是成功了
+
 ![没有显示超时就是成功了](https://github.com/dankerri/-windows-ssr-/blob/master/865406701.jpg?raw=true)
 
 
@@ -49,6 +52,13 @@ step2
 1. shadowrock是收费软件(开发者并不是我)
 2. 将二维码的图片保留在手机里
 3. 开始安装
+
+
+![step1](https://github.com/dankerri/-windows-ssr-/blob/master/1521190801.jpg?raw=true)
+
+step2
+
+![step2](https://github.com/dankerri/-windows-ssr-/blob/master/2013973155.jpg?raw=true)
 
 
 
