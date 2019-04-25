@@ -73,6 +73,10 @@ step2
 ![step2](https://github.com/dankerri/-windows-ssr-/blob/master/2013973155.jpg?raw=true)
 
 
+### 4. mac
+0. [不熟悉mac所以只贴教程](https://ssr.tools/164)
+
+
 
 
 ## 4.日常使用需知
