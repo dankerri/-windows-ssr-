@@ -24,9 +24,12 @@
 
 
 ## 1. 安卓
-1. [android客户端下载地址](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
+1. [android客户端下载地址, 请在浏览器中打开,不要在微信中打开](https://github.com/shadowsocksr-backup/shadowsocksr-android/releases)
 2. 复制ssr链接
 3. 开始安装
+
+step0: 下载apk
+![下载链接在asset里](https://github.com/dankerri/-windows-ssr-/blob/master/655819410.jpg?raw=true)
 
 step1
 
