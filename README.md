@@ -29,7 +29,10 @@
 3. 开始安装
 
 step0: 下载apk
+
+
 ![下载链接在asset里](https://github.com/dankerri/-windows-ssr-/blob/master/655819410.jpg?raw=true)
+
 
 step1
 
